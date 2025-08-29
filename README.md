@@ -8,7 +8,7 @@ Vous pouvez cliquer sur “Preview” pour voir vos modifications.
 - 🌱 J’apprends actuellement les patterns avancés de Symfony, les rouages internes d’AdonisJs et Go pour l’automatisation d’outils  
 - 💞️ Je cherche à collaborer sur des projets open-source autour de plateformes IoT agricoles, de générateurs d’API Symfony et d’applications web full-stack  
 - 📫 Pour me contacter :  
-  - 📧 Email : liephee266@gmail.com
+  - 📧 Email : lieloumloum@gmail.com/☎️ Tel/whatsapp : +242 06714 45 60
 - 😄 Pronoms : il/lui  
 - ⚡😄 Fun fact : j’ai déjà programmé un drone pour cartographier de manière autonome une parcelle de café de 5 hectares !  
 
