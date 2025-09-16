@@ -18,7 +18,7 @@ Vous pouvez cliquer sur “Preview” pour voir vos modifications.
 
 ### Langages & Frameworks  
 - **Backend** : Symfony, AdonisJs, Laravel, Golang (Gin), Python  
-- **Frontend** : AstroJs, Vue.js, Next.js (multi-frontends, dashboards)  
+- **Frontend** : AstroJs, Next.js 
 - **Bases de données** : PostgreSQL, MySQL, SQLite  
 - **DevOps & Infra** : Docker, Docker Compose, CI/CD basique, gestion d’installateurs (Go + Fyne)  
 - **Intégrations** : Ringover (téléphonie IP), Dialog Insight (marketing automation), WebSocket temps réel  
