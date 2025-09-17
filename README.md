@@ -2,6 +2,7 @@
 liephee266/liephee266 est un dépôt ✨ spécial ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
 Vous pouvez cliquer sur “Preview” pour voir vos modifications.
 --->
+## 👀 Qui suis-je ?
 
 - 👋 Bonjour, je suis Orphée Lié
 - 👀 Je m’intéresse à l’agriculture de précision, au développement web (AdonisJs,Symfony, Golang, AstroJs, Python), à l’IoT et aux technologies de drones  
