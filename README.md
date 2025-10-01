@@ -26,10 +26,10 @@ Vous pouvez cliquer sur “Preview” pour voir vos modifications.
 ## 🛠️ Compétences techniques  
 
 ### 🔹 Langages & Frameworks  
-- **Backend** : Symfony · AdonisJs · Laravel · Golang (Gin) · Python  
+- **Backend** : Symfony · AdonisJs · Laravel · Golang (Gin) · Python · bash · Flutter 
 - **Frontend** : AstroJs · Next.js  
 - **Bases de données** : PostgreSQL · MySQL · SQLite  
-- **DevOps & Infra** : Docker · Docker Compose · CI/CD basique · Installateurs (Go + Fyne)  
+- **DevOps & Infra** : Docker · Docker Compose · CI/CD  · Installateurs (Go + Fyne)  
 - **Intégrations** : Ringover (téléphonie IP) · Dialog Insight (marketing automation) · WebSocket temps réel  
 
 ### 🔹 Outils & Méthodes  
@@ -41,17 +41,17 @@ Vous pouvez cliquer sur “Preview” pour voir vos modifications.
 
 ## 📊 Statistiques GitHub  
 
-![PHP](https://img.shields.io/badge/PHP-50%25-blue?style=for-the-badge&logo=php)
-![Go](https://img.shields.io/badge/Go-25%25-teal?style=for-the-badge&logo=go)
-![Docker](https://img.shields.io/badge/Docker-15%25-2496ED?style=for-the-badge&logo=docker)
-![Autres](https://img.shields.io/badge/Autres-10%25-lightgrey?style=for-the-badge)
+- 🐘 **PHP / Symfony / Laravel / Api Plateforme** → ██████████████████ 45%  
+- 🚀 **Go (Gin, Fyne)** → ██████████░░░░░░░ 25%  
+- 🐳 **Docker & DevOps** → ██████░░░░░░░░░░ 20%  
+- ⚡ **Autres (Node.js, Python, Bash, Flutter, etc.)** → ██░░░░░░░░░░░░ 10%
 
 ---
 
 ## 🌍 Projets récents  
 - 📡 **Nandia** → API & app mobile (Symfony, Docker, Flutter) 
 - 🖥️ **CloudHost** → Hébergement web & VPS  (Infra, backend, Frontend)
-- 📚 **Eduverse** → Plateforme éducative (backend & Infra)  
+- 📚 **Eduverse** → Plateforme éducative (backend & Infra, )  
 - 📚 **SIS (Système Intégré de Santé)** → Plateforme de santé intégré (Backend & Infra avec Docker)
 
 ---
