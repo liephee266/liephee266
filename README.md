@@ -41,15 +41,18 @@ Vous pouvez cliquer sur “Preview” pour voir vos modifications.
 
 ## 📊 Statistiques GitHub  
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=liephee266&show_icons=true&theme=tokyonight)  
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=liephee266&layout=compact&theme=tokyonight)  
+![PHP](https://img.shields.io/badge/PHP-50%25-blue?style=for-the-badge&logo=php)
+![Go](https://img.shields.io/badge/Go-25%25-teal?style=for-the-badge&logo=go)
+![Docker](https://img.shields.io/badge/Docker-15%25-2496ED?style=for-the-badge&logo=docker)
+![Autres](https://img.shields.io/badge/Autres-10%25-lightgrey?style=for-the-badge)
 
 ---
 
 ## 🌍 Projets récents  
-- 🖥️ **CloudHost** → Hébergement web & VPS  
-- 📚 **MOBEMBO** → Plateforme éducative & santé (Strapi.js backend)  
-- 📡 **Nandia** → API & app mobile (Symfony, Docker, Flutter)  
+- 📡 **Nandia** → API & app mobile (Symfony, Docker, Flutter) 
+- 🖥️ **CloudHost** → Hébergement web & VPS  (Infra, backend, Frontend)
+- 📚 **Eduverse** → Plateforme éducative (backend & Infra)  
+- 📚 **SIS (Système Intégré de Santé)** → Plateforme de santé intégré (Backend & Infra avec Docker)
 
 ---
 
