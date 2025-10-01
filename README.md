@@ -2,31 +2,55 @@
 liephee266/liephee266 est un dépôt ✨ spécial ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
 Vous pouvez cliquer sur “Preview” pour voir vos modifications.
 --->
-## 👀 Qui suis-je ?
 
-- 👋 Bonjour, je suis Orphée Lié
-- 👀 Je m’intéresse à l’agriculture de précision, au développement web (AdonisJs,Symfony, Golang, AstroJs, Python), à l’IoT et aux technologies de drones  
-- 🌱 J’apprends actuellement les patterns avancés de Symfony, les rouages internes d’AdonisJs et Go pour l’automatisation d’outils  
-- 💞️ Je cherche à collaborer sur des projets open-source autour de plateformes IoT agricoles, de générateurs d’API Symfony et d’applications web full-stack  
-- 📫 Pour me contacter :  
-  - 📧 Email : lieloumloum@gmail.com / ☎️ Tel / whatsapp : +242 06714 45 60
-- 😄 Pronoms : il/lui  
-- ⚡😄 Fun fact : j’ai déjà programmé un drone pour cartographier de manière autonome une parcelle de café de 5 hectares !
+# 👋 Bonjour, je suis Orphée Lié  
 
+## 👀 Qui suis-je ?  
+- 🌱 Passionné par **l’agriculture de précision**, le **développement web** (AdonisJs, Symfony, Golang, AstroJs, Python), l’**IoT** et les **technologies de drones**  
+- 🚀 En ce moment, j’approfondis :  
+  - Les **patterns avancés de Symfony**  
+  - Le cœur d’**AdonisJs**  
+  - L’**automatisation d’outils avec Go**  
+- 🤝 Je cherche à collaborer sur :  
+  - Des projets **open-source IoT agricoles**  
+  - Des **générateurs d’API Symfony**  
+  - Des **applications web full-stack**  
+- 📫 Me contacter :  
+  - 📧 Email : **lieloumloum@gmail.com**  
+  - ☎️ Tel / WhatsApp : **+242 06714 45 60**  
+- 😄 Pronoms : **il/lui**  
+- ⚡ Fun fact : J’ai déjà programmé un **drone autonome** pour cartographier une parcelle de café de **5 hectares** !  
 
+---
 
 ## 🛠️ Compétences techniques  
 
-### Langages & Frameworks  
-- **Backend** : Symfony, AdonisJs, Laravel, Golang (Gin), Python  
-- **Frontend** : AstroJs, Next.js 
-- **Bases de données** : PostgreSQL, MySQL, SQLite  
-- **DevOps & Infra** : Docker, Docker Compose, CI/CD basique, gestion d’installateurs (Go + Fyne)  
-- **Intégrations** : Ringover (téléphonie IP), Dialog Insight (marketing automation), WebSocket temps réel  
+### 🔹 Langages & Frameworks  
+- **Backend** : Symfony · AdonisJs · Laravel · Golang (Gin) · Python  
+- **Frontend** : AstroJs · Next.js  
+- **Bases de données** : PostgreSQL · MySQL · SQLite  
+- **DevOps & Infra** : Docker · Docker Compose · CI/CD basique · Installateurs (Go + Fyne)  
+- **Intégrations** : Ringover (téléphonie IP) · Dialog Insight (marketing automation) · WebSocket temps réel  
 
-### Outils & Méthodes  
-- Git, GitHub, GitLab  
-- Méthodologies Agiles (Scrum, Kanban)  
-- Outils de gestion de projet : Trello, Jira, OpenProject  
+### 🔹 Outils & Méthodes  
+- Git · GitHub · GitLab  
+- Scrum · Kanban  
+- Trello · Jira · OpenProject  
 
 ---
+
+## 📊 Statistiques GitHub  
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=liephee266&show_icons=true&theme=tokyonight)  
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=liephee266&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌍 Projets récents  
+- 🖥️ **CloudHost** → Hébergement web & VPS  
+- 📚 **MOBEMBO** → Plateforme éducative & santé (Strapi.js backend)  
+- 📡 **Nandia** → API & app mobile (Symfony, Docker, Flutter)  
+
+---
+
+✨ *Toujours curieux, toujours en train de construire, toujours en train d’apprendre.* 🚀
