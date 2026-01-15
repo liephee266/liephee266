@@ -17,9 +17,8 @@ Vous pouvez cliquer sur “Preview” pour voir vos modifications.
   - Des **applications web full-stack**  
 - 📫 Me contacter :  
   - 📧 Email : **lieloumloum@gmail.com**  
-  - ☎️ Tel / WhatsApp : **+242 06714 45 60**  
-- 😄 Pronoms : **il/lui**  
-- ⚡ Fun fact : J’ai déjà programmé un **drone autonome** pour cartographier une parcelle de café de **5 hectares** !  
+  - ☎️ Tel / WhatsApp : **(+242) 06732 80 91/06714 45 60**  
+- 😄 Pronoms : **il/lui**   
 
 ---
 
