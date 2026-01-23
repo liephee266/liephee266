@@ -25,8 +25,9 @@ Vous pouvez cliquer sur “Preview” pour voir vos modifications.
 ## 🛠️ Compétences techniques  
 
 ### 🔹 Langages & Frameworks  
-- **Backend** : Symfony · AdonisJs · Laravel · Golang (Gin) · Python · bash · Flutter 
-- **Frontend** : AstroJs · Next.js  
+- **Backend** : Symfony · AdonisJs · Laravel · Golang (Gin) · Python · bash  
+- **Frontend** : AstroJs · Next.js
+- **Mobile** : Flutter · Fyne
 - **Bases de données** : PostgreSQL · MySQL · SQLite  
 - **DevOps & Infra** : Docker · Docker Compose · CI/CD  · Installateurs (Go + Fyne)  
 - **Intégrations** : Ringover (téléphonie IP) · Dialog Insight (marketing automation) · WebSocket temps réel  
