@@ -30,7 +30,7 @@ Vous pouvez cliquer sur “Preview” pour voir vos modifications.
 - **Mobile** : Flutter · Fyne
 - **Bases de données** : PostgreSQL · MySQL · SQLite  
 - **DevOps & Infra** : Docker · Docker Compose · CI/CD  · Installateurs (Go + Fyne)  
-- **Intégrations** : Ringover (téléphonie IP) · Dialog Insight (marketing automation) · WebSocket temps réel  
+- **Intégrations** : Ringover (téléphonie IP) · Dialog Insight (marketing automation) · WebSocket (temps réel) · WebRTC · gRPC  
 
 ### 🔹 Outils & Méthodes  
 - Git · GitHub · GitLab  
