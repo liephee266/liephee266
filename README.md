@@ -49,6 +49,8 @@ Vous pouvez cliquer sur “Preview” pour voir vos modifications.
 ---
 
 ## 🌍 Projets récents  
+- 🖥️ **DocuStream** Langage : Go · RPC : gRPC · Streaming : bidirectionnel · Concurrency : goroutines, channels · Stockage : filesystem · Client : CLI Go
+- 🖥️ **WebRTC Platform** – JS + Go (Gin) + Pion + Coturn + SFU
 - 📡 **Nandia** → API & app mobile (Symfony, Docker, Flutter) 
 - 🖥️ **CloudHost** → Hébergement web & VPS  (Infra, backend, Frontend)
 - 📚 **Eduverse** → Plateforme éducative (backend & Infra, )  
