@@ -14,7 +14,7 @@ Vous pouvez cliquer sur “Preview” pour voir vos modifications.
 - 🤝 Je cherche à collaborer sur :  
   - Des projets **open-source IoT agricoles**  
   - Des **générateurs d’API Symfony**  
-  - Des **applications web full-stack**  
+  - Des **applications web full-stack** · **systèmes embarqués** · **WebRTC** · **gRPC**  
 - 📫 Me contacter :  
   - 📧 Email : **lieloumloum@gmail.com**  
   - ☎️ Tel : **(+242) 06732 80 91/06714 45 60**  
